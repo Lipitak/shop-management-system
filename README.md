@@ -1,20 +1,24 @@
-Shop Management System
+# Shop Management System
 
 A simple Python-based Shop Management System developed to manage products and sales through a console interface.
 
-Features
+## Features
 
 - Add new products
-- View available products
-- Sell products
-- Generate sales reports
+- View available products with inventory value.
+- Sell products with discount
+- low stcok alerts
+- update price and quantity
+- Generate sales reports with grand total
+- data saved to json file
 - Simple menu-driven interface
 
-Technologies Used
+## Technologies Used
 
 - Python
+- json (file handling)
 
-How to Run
+## How to Run
 
 1. Clone the repository:
    
@@ -28,7 +32,7 @@ How to Run
    
    python main.py
 
-Learning Outcomes
+## Learning Outcomes
 
 This project helped me learn:
 
@@ -36,8 +40,9 @@ This project helped me learn:
 - Lists and data handling
 - Conditional statements and loops
 - Functions
+- file handling(json)
 - Git and GitHub version control
 
-Author
+## Author
 
 Lipi Tak
